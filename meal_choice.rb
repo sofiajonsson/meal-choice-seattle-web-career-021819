@@ -1,5 +1,5 @@
 def meal_choice(name = "meat")
-puts ${name}
+puts ${"vegan"}
 end
   
   
