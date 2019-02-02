@@ -1,5 +1,5 @@
 def meal_choice(name = "meat")
-print "#{name}"
+puts "#{name}"
 end
 
 
